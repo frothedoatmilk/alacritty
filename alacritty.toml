@@ -1,7 +1,3 @@
-[bell]
-animation = "Linear"
-color = "#b387c8"
-
 [colors.normal]
 black = "#101111"
 blue = "#2f80c5"
@@ -30,7 +26,6 @@ family = "CaskaydiaCove Nerd Font"
 decorations = "full"
 decorations_theme_variant = "Dark"
 opacity = 0.9
-option_as_alt = "OnlyLeft"
 startup_mode = "Windowed"
 title = "Adjusting transmission..."
 
