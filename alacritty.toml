@@ -1,0 +1,43 @@
+[bell]
+animation = "Linear"
+color = "#b387c8"
+
+[colors.normal]
+black = "#101111"
+blue = "#2f80c5"
+cyan = "#34d4ca"
+green = "#26b92a"
+magenta = "#b072c3"
+red = "#e34545"
+white = "#efefef"
+yellow = "#f0c750"
+
+[colors.primary]
+background = "#252225"
+foreground = "#cccfcc"
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[font]
+size = 11.5
+
+[font.normal]
+family = "CaskaydiaCove Nerd Font"
+
+[window]
+decorations = "full"
+decorations_theme_variant = "Dark"
+opacity = 0.9
+option_as_alt = "OnlyLeft"
+startup_mode = "Windowed"
+title = "Adjusting transmission..."
+
+[window.dimensions]
+columns = 70
+lines = 25
+
+[window.padding]
+x = 5
+y = 5
