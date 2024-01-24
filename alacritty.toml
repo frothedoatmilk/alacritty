@@ -17,7 +17,7 @@ blinking = "On"
 shape = "Beam"
 
 [font]
-size = 11.5
+size = 12
 
 [font.normal]
 family = "CaskaydiaCove Nerd Font"
@@ -27,7 +27,7 @@ decorations = "full"
 decorations_theme_variant = "Dark"
 opacity = 0.9
 startup_mode = "Windowed"
-title = "Adjusting transmission..."
+title = "hackerman oooOOoo"
 
 [window.dimensions]
 columns = 70
