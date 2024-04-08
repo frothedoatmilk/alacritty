@@ -31,12 +31,8 @@ decorations = "full"
 decorations_theme_variant = "Dark"
 opacity = 0.9
 startup_mode = "Windowed"
-title = "hackerman oooOOoo"
 
 [window.dimensions]
 columns = 70
 lines = 25
 
-[window.padding]
-x = 5
-y = 5
