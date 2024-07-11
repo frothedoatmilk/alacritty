@@ -36,3 +36,5 @@ startup_mode = "Windowed"
 columns = 70
 lines = 25
 
+[scrolling]
+history = 100000
