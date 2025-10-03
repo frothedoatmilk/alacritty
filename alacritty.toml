@@ -9,8 +9,8 @@ white = "#efefef"
 yellow = "#f0c750"
 
 [colors.primary]
-background = "#252225"
-foreground = "#cccfcc"
+background = "#000000"
+foreground = "#dddddd"
 
 [cursor.style]
 blinking = "On"
